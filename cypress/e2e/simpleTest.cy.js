@@ -3,10 +3,6 @@
 // It and Specify
 // Unit testing Demo
 
-const { expect } = require("chai");
-
-
-
 // Dummy App
 
 let add = (a,b) => a+b;
